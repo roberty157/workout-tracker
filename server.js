@@ -132,6 +132,4 @@ app.get("/api/workouts/range", (req,res)=>{
     console.log("getWorkoutsInRange");
 });
 
-app.listen(3000,()=>{
-    console.log("App running on port 3000!");
-});
+app.listen(process.env.PORT || 3000)
