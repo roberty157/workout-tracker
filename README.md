@@ -1,6 +1,6 @@
 # workout-tracker
 18-NoSQL
-
+MongoDB, Nodejs, 
 mongoose
 
 Workout tracker application where a user can add workouts and then get stats on the past 7 workouts  
